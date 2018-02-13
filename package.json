@@ -1,0 +1,29 @@
+{
+  "name": "frindfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "Friends",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajijacob/friendfinder.git"
+  },
+  "keywords": [
+    "Search"
+  ],
+  "author": "Saji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajijacob/friendfinder/issues"
+  },
+  "homepage": "https://github.com/sajijacob/friendfinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonfile": "^4.0.0",
+    "path": "^0.12.7"
+  }
+}
